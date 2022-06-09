@@ -1,0 +1,19 @@
+.classpath.txt
+target
+.classpath
+.project
+.idea
+.settings
+.vscode
+*.iml
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
+# Gradle files
+.gradle
+build
+
+# NodeJS files
+node_modules
